@@ -1,4 +1,4 @@
-# shiny-airbnb-SF
+# shiny-app-airbnb-SF
 
 https://ningsun.shinyapps.io/shiny_sf_airbnb/
 
